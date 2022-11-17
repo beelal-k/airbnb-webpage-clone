@@ -352,6 +352,7 @@
   border-radius: 30px;
   padding: 1%;
   border: 0;
+  background-color: #dbdbdb;
   opacity: 90%;
   display: flex;
   justify-content: center;
@@ -361,6 +362,7 @@
 
 .nextButton {
   position: absolute;
+  background-color: #dbdbdb;
   top: 35%;
   border-radius: 30px;
   padding: 1%;
